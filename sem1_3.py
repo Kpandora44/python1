@@ -7,7 +7,8 @@
 i = int(input())
 j = int(input())
 
-if i - j = 0:
+if i - j == 0:
      print(-1) 
 else:
      print(i + j - 1)
+
